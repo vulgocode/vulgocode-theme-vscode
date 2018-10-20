@@ -3,6 +3,7 @@
   "type": "dark",
   "author": "Alexandre Ramos",
   "maintainers": ["alexandreramos <alexandresantos84@gmail.com>"],
+  "semanticClass": "theme.vulgocode",
   "colors": {
     "editor.background": "#212121",
     "editor.foreground": "#ffffff",

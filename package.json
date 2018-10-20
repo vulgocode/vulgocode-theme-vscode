@@ -1,7 +1,7 @@
 {
   "name": "vulgocode-color-theme",
   "displayName": "Vulgocode Color Theme",
-  "description": "Theme for vscode inspired by the colors of VulgoCode inspired by Alexandre Ramos",
+  "description": "Theme for vscode inspired by the colors of VulgoCode.",
   "version": "0.0.1",
   "publisher": "alexandreramos",
   "engines": {
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vulgocode-theme",
+        "label": "vulgocode-color-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/vulgocode-color-theme.json"
       }

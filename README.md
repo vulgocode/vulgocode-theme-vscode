@@ -1,4 +1,4 @@
-## Vulgocode Theme
+## Vulgocode Color Theme VSCode
 
 > A dark Vulgocode theme for vscode.
 

@@ -1,0 +1,25 @@
+{
+  "name": "my-color-theme",
+  "displayName": "My Color Theme",
+  "description": "My theme pessonal",
+  "version": "0.0.1",
+  "publisher": "alexandreramos",
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "my-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "my-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color-theme.json"
+      }
+    ]
+  }
+}

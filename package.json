@@ -26,6 +26,7 @@
   "bugs": {
     "url": "https://github.com/AlexandreRStos/vulgocode-theme-vscode/issues"
   },
+  "license": "SEE LICENSE IN LICENSE.txt",
   "contributes": {
     "themes": [
       {

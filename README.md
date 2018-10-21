@@ -14,7 +14,7 @@
 
 #### JSON
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/html.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/JSON.png)
 
 ## Team
 

@@ -1,5 +1,7 @@
 # Vulgocode Color Theme VSCode
 
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
+
 > A dark Vulgocode theme for [Visual Studio Code](http://code.visualstudio.com).
 
 #### Javascript
@@ -21,6 +23,8 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![Alexandre Ramos](https://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](https://github.com/alexandrerstos) |
 | :-----------------------------------------------------------------------------------------------------------------: |
 |                                [Alexandre Ramos](https://github.com/alexandrerstos)                                 |
+
+## Customization
 
 If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
 

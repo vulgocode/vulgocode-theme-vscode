@@ -28,6 +28,18 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
 
+### Custom Font
+
+I don't supply a custom font either, but you might be used to see screenshots of the VulgoCode Color theme using the [FiraCode](https://github.com/tonsky/FiraCode) font. You can easily [customize your settings](https://code.visualstudio.com/docs/getstarted/settings) to use it.  
+If you download and install the font in your system, you can add this option to have a custom font:
+
+```json
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true
+}
+```
+
 ## License
 
 [MIT License](./LICENSE)

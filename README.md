@@ -6,15 +6,15 @@
 
 #### Javascript
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/javascript.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/javascript.png)
 
 #### Html
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/html.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/html.png)
 
 #### JSON
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/JSON.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/JSON.png)
 
 ## Team
 

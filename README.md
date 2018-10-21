@@ -1,6 +1,6 @@
 # Vulgocode Color Theme VSCode
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme)
 
 > A dark Vulgocode theme for [Visual Studio Code](http://code.visualstudio.com).
 

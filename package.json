@@ -2,7 +2,7 @@
   "name": "vulgocode-color-theme",
   "displayName": "Vulgocode Color Theme",
   "description": "Theme for vscode inspired by the colors of VulgoCode.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "alexandreramos",
   "engines": {
     "vscode": "^1.21.0"

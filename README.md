@@ -26,7 +26,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## Customization
 
-If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info here
+If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
 
 ### Custom Font
 

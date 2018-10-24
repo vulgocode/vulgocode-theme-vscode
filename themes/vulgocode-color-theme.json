@@ -81,7 +81,7 @@
       "name": "TemplateString",
       "scope": "string.template.js",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#a5e57b"
       }
     },
     {
@@ -465,7 +465,7 @@
       "scope": "markup.heading.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#e06c75"
+        "foreground": "#7159C1"
       }
     },
     {
@@ -503,7 +503,7 @@
       "scope": "punctuation.definition.list_item.markdown",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#ffffff"
+        "foreground": "#f8f8f8"
       }
     }
   ]

@@ -16,15 +16,15 @@ ext install Vulgocode Color
 
 #### Javascript
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/javascript.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/javascript.png)
 
 #### Html
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/html.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/html.png)
 
 #### JSON
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/assets/JSON.png)
+![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/JSON.png)
 
 ## Team
 

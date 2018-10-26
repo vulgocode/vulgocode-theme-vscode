@@ -1,0 +1,58 @@
+{
+  "name": "Vulgocode",
+  "type": "dark",
+  "author": "Alexandre Ramos",
+  "maintainers": ["alexandreramos <alexandresantos84@gmail.com>"],
+  "semanticClass": "theme.vulgocode",
+
+  "colors": {
+    "editor.background": "#212121",
+    "editor.foreground": "#ffffff",
+
+    "activityBar.background": "#212121",
+    "activityBar.foreground": "#b3b3b3",
+    "activityBar.dropBackground": "#121212",
+    "activityBar.border": "#121212",
+    "activityBarBadge.background": "#7159C1",
+    "activityBarBadge.foreground": "#fff",
+
+    "sideBar.background": "#121212",
+    "sideBar.foreground": "#b3b3b3",
+    "sideBar.border": "#121212",
+    "sideBarTitle.foreground": "#FFF",
+    "sideBarSectionHeader.foreground": "#FFF",
+    "sideBarSectionHeader.background": "#212121",
+
+    "list.activeSelectionBackground": "#535353",
+    "list.activeSelectionForeground": "#fff",
+    "list.dropBackground": "#212121",
+    "list.hoverBackground": "#212121",
+    "list.hoverForeground": "#fff",
+    "list.focusBackground": "#212121",
+    "list.focusForeground": "#fff",
+    "list.inactiveSelectionBackground": "#212121",
+    "list.inactiveFocusBackground": "#121212",
+    "list.inactiveSelectionForeground": "#fff",
+    "list.highlightForeground": "#fff",
+
+    "statusBar.background": "#121212",
+    "statusBar.foreground": "#b3b3b3",
+    "statusBar.border": "#212121",
+    "statusBar.debuggingBackground": "#212121",
+    "statusBar.debuggingForeground": "#ffffff",
+    "statusBarItem.activeBackground": "#212121",
+    "statusBarItem.hoverBackground": "#212121",
+    "statusBar.noFolderBackground": "#121212",
+    "statusBar.noFolderBorder": "#121212",
+    "statusBar.noFolderForeground": "#b3b3b3",
+
+    "notificationCenter.border": "#121212",
+    "notificationCenterHeader.foreground": "#b3b3b3",
+    "notificationCenterHeader.background": "#121212",
+
+    "editorGroup.border": "#7159C1",
+    "editorGroup.dropBackground": "#212121",
+
+    "tab.activeBackground": "#212121"
+  }
+}

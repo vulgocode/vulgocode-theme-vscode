@@ -1,7 +1,7 @@
 {
   "name": "vulgocode-color-theme",
   "displayName": "Vulgocode Color Theme",
-  "description": "Theme for vscode inspired by the colors of VulgoCode.",
+  "description": "Beatifull Theme for vscode inspired by the colors of VulgoCode.",
   "version": "0.1.6",
   "publisher": "alexandreramos",
   "engines": {
@@ -35,5 +35,9 @@
         "path": "./themes/vulgocode-color-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
   }
 }

@@ -2,17 +2,17 @@
   "colors": {
     "q": "#676f7d",
     "w": "#abb2bf",
-    "e": "#a5e57b",
+    "green-light": "#a5e57b",
     "green": "#98c379",
     "chalky": "#E5C07B",
     "whiskey": "#d19a66",
     "coral": "#e06c75",
     "malibu": "#61AFEF",
     "fountainBlue": "#56b6c2",
-    "s": "#7159C1",
+    "purple-1": "#7159C1",
     "purple": "#c678dd",
-    "d": "#75715E",
-    "f": "#696969",
+    "grey-ligth": "#75715E",
+    "grey": "#696969",
     "invalid": "#f8f8f8"
   }
 }

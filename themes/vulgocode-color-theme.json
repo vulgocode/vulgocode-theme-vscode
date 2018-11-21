@@ -6,35 +6,35 @@
   "semanticClass": "theme.vulgocode",
   "colors": {
     "editor.background": "#212121",
-    "editor.foreground": "#ffffff",
+    "editor.foreground": "#F8F8F2",
     "activityBar.background": "#212121",
     "activityBar.foreground": "#b3b3b3",
     "activityBar.dropBackground": "#121212",
     "activityBarBadge.background": "#7159C1",
-    "activityBarBadge.foreground": "#fff",
+    "activityBarBadge.foreground": "#F8F8F2",
     "activityBar.border": "#121212",
     "sideBar.background": "#121212",
     "sideBar.foreground": "#b3b3b3",
-    "sideBarTitle.foreground": "#FFF",
-    "sideBarSectionHeader.foreground": "#FFF",
+    "sideBarTitle.foreground": "#F8F8F2",
+    "sideBarSectionHeader.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#212121",
     "sideBar.border": "#121212",
     "list.activeSelectionBackground": "#535353",
-    "list.activeSelectionForeground": "#fff",
+    "list.activeSelectionForeground": "#F8F8F2",
     "list.dropBackground": "#212121",
     "list.hoverBackground": "#212121",
-    "list.hoverForeground": "#fff",
+    "list.hoverForeground": "#F8F8F2",
     "list.focusBackground": "#212121",
-    "list.focusForeground": "#fff",
+    "list.focusForeground": "#F8F8F2",
     "list.inactiveSelectionBackground": "#212121",
     "list.inactiveFocusBackground": "#121212",
-    "list.inactiveSelectionForeground": "#fff",
-    "list.highlightForeground": "#fff",
+    "list.inactiveSelectionForeground": "#F8F8F2",
+    "list.highlightForeground": "#F8F8F2",
     "statusBar.background": "#121212",
     "statusBar.foreground": "#b3b3b3",
     "statusBar.border": "#212121",
     "statusBar.debuggingBackground": "#212121",
-    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.debuggingForeground": "#F8F8F2",
     "statusBarItem.activeBackground": "#212121",
     "statusBarItem.hoverBackground": "#212121",
     "statusBar.noFolderBackground": "#121212",
@@ -258,7 +258,7 @@
       "scope": ["entity.name.type.class"],
       "settings": {
         "foreground": "#8BE9FD",
-        "fontStyle": "normal"
+        "fontStyle": "italic"
       }
     },
     {
@@ -443,7 +443,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "italic",
         "foreground": "#BD93F9"
       }
     },
@@ -451,7 +451,7 @@
       "name": "Built-in functions / properties",
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
+        "fontStyle": "italic"
       }
     },
     {
@@ -565,7 +565,7 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "italic",
         "foreground": "#FF79C6"
       }
     },
@@ -735,7 +735,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#F8F8F2"
       }
     },
@@ -792,7 +792,7 @@
       "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#BD93F9"
       }
     },

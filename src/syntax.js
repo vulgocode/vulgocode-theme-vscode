@@ -805,7 +805,7 @@ const configFactory = (type, italic = 'italic') => {
         }
       },
       {
-        name: italic,
+        name: "Italic",
         scope: 'markup.italic, punctuation.definition.italic,todo.emphasis',
         settings: {
           foreground: colorObj['purple']

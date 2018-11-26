@@ -1,8 +1,8 @@
 const colorConfig = require('./color.json')
 
-const configFactory = type => {  
+const configFactory = (type, italic = 'italic') => {
   const colorObj = colorConfig[type]
-  
+
   return {
     tokenColors: [
       {
@@ -46,7 +46,7 @@ const configFactory = type => {
         scope: 'comment, punctuation.definition.comment',
         settings: {
           foreground: colorObj['lightDark'],
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -112,7 +112,7 @@ const configFactory = type => {
         scope:
           'entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super',
         settings: {
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -287,7 +287,7 @@ const configFactory = type => {
         name: 'comment',
         scope: 'comment.line.double-slash,comment.block.documentation',
         settings: {
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -591,7 +591,7 @@ const configFactory = type => {
         name: 'Python Keyword Control',
         scope: 'keyword.control.import.python,keyword.control.flow.python',
         settings: {
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -805,14 +805,14 @@ const configFactory = type => {
         }
       },
       {
-        name: 'Italic',
+        name: italic,
         scope: 'markup.italic, punctuation.definition.italic,todo.emphasis',
         settings: {
           foreground: colorObj['purple']
         }
       },
       {
-        name: 'Italic',
+        name: italic,
         scope: 'emphasis md',
         settings: {
           foreground: colorObj['purple']
@@ -879,7 +879,7 @@ const configFactory = type => {
         scope: 'markup.quote.markdown',
         settings: {
           foreground: colorObj['dark'],
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -927,7 +927,7 @@ const configFactory = type => {
         name: 'markup.italic.markdown',
         scope: 'markup.italic.markdown',
         settings: {
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -1253,7 +1253,7 @@ const configFactory = type => {
           'var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx',
         settings: {
           foreground: colorObj['chalky'],
-          fontStyle: 'italic'
+          fontStyle: italic
         }
       },
       {
@@ -1569,5 +1569,7 @@ const configFactory = type => {
 
 module.exports = {
   classic: configFactory('classic'),
-  vivid: configFactory('vivid')
+  vivid: configFactory('vivid'),
+  classic_noitalic: configFactory('classic', ''),
+  vivid_noitalic: configFactory('vivid', '')
 }

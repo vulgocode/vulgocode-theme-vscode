@@ -16,23 +16,23 @@ ext install Vulgocode Color
 
 #### Javascript
 
-![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/javascript.png)
+![Screenshot](/static/javascript.png)
 
 #### Html
 
-![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/html.png)
+![Screenshot](/master/static/html.png)
 
 #### JSON
 
-![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/JSON.png)
+![Screenshot](/master/static/JSON.png)
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](http://github.com/AlexandreRStos/vulgocode-theme-vscode/graphs/contributors).
 
-| [![Alexandre Ramos](http://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](http://github.com/alexandrerstos) |
-| :---------------------------------------------------------------------------------------------------------------: |
-|                                [Alexandre Ramos](http://github.com/alexandrerstos)                                |
+| [![Alexandre Ramos](https://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](http://github.com/alexandrerstos) |
+| :----------------------------------------------------------------------------------------------------------------: |
+|                                [Alexandre Ramos](http://github.com/alexandrerstos)                                 |
 
 ## Customization
 

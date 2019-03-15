@@ -46,8 +46,7 @@
     "editorGroup.border": "#7159C1",
     "editorGroup.dropBackground": "#212121",
     "tab.activeBackground": "#212121",
-    "terminal.background": "#121212",
-    "terminal.foreground": "#7159C1"
+    "terminal.background": "#121212"
   },
   "tokenColors": [
     {

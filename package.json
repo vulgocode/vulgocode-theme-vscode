@@ -34,12 +34,12 @@
       {
         "label": "Vulgocode Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vulgocode-color-theme.json"
+        "path": "./themes/Vulgocode-Color-Theme.json"
       },
       {
         "label": "Vulgocode Color Theme Bold",
         "uiTheme": "vs-dark",
-        "path": "./themes/vulgocode-color-theme-bold.json"
+        "path": "./themes/Vulgocode-Color-Theme-bold.json"
       }
     ]
   },

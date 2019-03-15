@@ -12,13 +12,13 @@
     "activityBar.dropBackground": "#121212",
     "activityBarBadge.background": "#7159C1",
     "activityBarBadge.foreground": "#F8F8F2",
-    "activityBar.border": "#121212",
+    "activityBar.border": "#535353",
     "sideBar.background": "#121212",
     "sideBar.foreground": "#b3b3b3",
     "sideBarTitle.foreground": "#F8F8F2",
     "sideBarSectionHeader.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#212121",
-    "sideBar.border": "#121212",
+    "sideBar.border": "#535353",
     "list.activeSelectionBackground": "#535353",
     "list.activeSelectionForeground": "#F8F8F2",
     "list.dropBackground": "#212121",
@@ -32,7 +32,7 @@
     "list.highlightForeground": "#F8F8F2",
     "statusBar.background": "#121212",
     "statusBar.foreground": "#b3b3b3",
-    "statusBar.border": "#212121",
+    "statusBar.border": "#535353",
     "statusBar.debuggingBackground": "#212121",
     "statusBar.debuggingForeground": "#F8F8F2",
     "statusBarItem.activeBackground": "#212121",
@@ -45,7 +45,9 @@
     "notificationCenterHeader.background": "#121212",
     "editorGroup.border": "#7159C1",
     "editorGroup.dropBackground": "#212121",
-    "tab.activeBackground": "#212121"
+    "tab.activeBackground": "#212121",
+    "terminal.background": "#121212",
+    "terminal.foreground": "#7159C1"
   },
   "tokenColors": [
     {

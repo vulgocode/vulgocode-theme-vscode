@@ -1,18 +1,18 @@
 {
   "colors": {
-    "q": "#676f7d",
-    "w": "#abb2bf",
-    "green-light": "#a5e57b",
-    "green": "#98c379",
-    "chalky": "#E5C07B",
+    "paleSky": "#676f7d",
+    "cadetBlue": "#abb2bf",
+    "yellowGreen": "#a5e57b",
+    "olivine": "#98c379",
+    "harvestGold": "#E5C07B",
     "whiskey": "#d19a66",
-    "coral": "#e06c75",
-    "malibu": "#61AFEF",
+    "sunglo": "#e06c75",
+    "cornflowerBlue": "#61AFEF",
     "fountainBlue": "#56b6c2",
-    "purple-1": "#7159C1",
-    "purple": "#c678dd",
-    "grey-ligth": "#75715E",
-    "grey": "#696969",
-    "invalid": "#f8f8f8"
+    "fuchsiaBlue": "#7159C1",
+    "lavender": "#c678dd",
+    "crocodile": "#75715E",
+    "doveGray": "#696969",
+    "alabaster": "#f8f8f8"
   }
 }

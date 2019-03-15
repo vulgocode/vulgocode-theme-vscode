@@ -1,58 +1,62 @@
 {
-  "name": "Vulgocode",
+  "name": "Vulgocode Color Theme",
   "type": "dark",
-  "author": "Alexandre Ramos",
-  "maintainers": ["alexandreramos <alexandresantos84@gmail.com>"],
-  "semanticClass": "theme.vulgocode",
 
   "colors": {
     "editor.background": "#212121",
-    "editor.foreground": "#ffffff",
+    "editor.foreground": "#F8F8F2",
+
+    "editor.lineHighlightBackground": "#313131",
+
+    "editorGroup.border": "#7159C1",
+    "editorGroup.dropBackground": "#212121",
 
     "activityBar.background": "#212121",
     "activityBar.foreground": "#b3b3b3",
     "activityBar.dropBackground": "#121212",
     "activityBar.border": "#121212",
+
     "activityBarBadge.background": "#7159C1",
-    "activityBarBadge.foreground": "#fff",
+    "activityBarBadge.foreground": "#F8F8F2",
 
     "sideBar.background": "#121212",
     "sideBar.foreground": "#b3b3b3",
-    "sideBar.border": "#121212",
-    "sideBarTitle.foreground": "#FFF",
-    "sideBarSectionHeader.foreground": "#FFF",
+    "sideBar.border": "#212121",
+
+    "sideBarTitle.foreground": "#F8F8F2",
+
+    "sideBarSectionHeader.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#212121",
 
     "list.activeSelectionBackground": "#535353",
-    "list.activeSelectionForeground": "#fff",
+    "list.activeSelectionForeground": "#F8F8F2",
     "list.dropBackground": "#212121",
     "list.hoverBackground": "#212121",
-    "list.hoverForeground": "#fff",
+    "list.hoverForeground": "#F8F8F2",
     "list.focusBackground": "#212121",
-    "list.focusForeground": "#fff",
+    "list.focusForeground": "#F8F8F2",
     "list.inactiveSelectionBackground": "#212121",
     "list.inactiveFocusBackground": "#121212",
-    "list.inactiveSelectionForeground": "#fff",
-    "list.highlightForeground": "#fff",
+    "list.inactiveSelectionForeground": "#F8F8F2",
+    "list.highlightForeground": "#F8F8F2",
 
     "statusBar.background": "#121212",
     "statusBar.foreground": "#b3b3b3",
     "statusBar.border": "#212121",
     "statusBar.debuggingBackground": "#212121",
-    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.debuggingForeground": "#F8F8F2",
     "statusBarItem.activeBackground": "#212121",
     "statusBarItem.hoverBackground": "#212121",
     "statusBar.noFolderBackground": "#121212",
-    "statusBar.noFolderBorder": "#121212",
+    "statusBar.noFolderBorder": "#212121",
     "statusBar.noFolderForeground": "#b3b3b3",
 
     "notificationCenter.border": "#121212",
     "notificationCenterHeader.foreground": "#b3b3b3",
     "notificationCenterHeader.background": "#121212",
 
-    "editorGroup.border": "#7159C1",
-    "editorGroup.dropBackground": "#212121",
+    "tab.activeBackground": "#212121",
 
-    "tab.activeBackground": "#212121"
+    "terminal.background": "#121212"
   }
 }

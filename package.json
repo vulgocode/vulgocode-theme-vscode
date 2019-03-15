@@ -16,29 +16,42 @@
   "keywords": [
     "theme",
     "dark",
-    "vulgocode-theme"
+    "vulgocode-theme",
+    "atom",
+    "vulgocode color theme"
   ],
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexandreRStos/vulgocode-theme-vscode"
+    "url": "https://github.com/alexandreramosdev/vulgocode-theme-vscode"
   },
   "bugs": {
-    "url": "https://github.com/AlexandreRStos/vulgocode-theme-vscode/issues"
+    "url": "https://github.com/alexandreramosdev/vulgocode-theme-vscode/issues"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
   "contributes": {
     "themes": [
       {
-        "label": "vulgocode-color-theme",
+        "label": "Vulgocode Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/vulgocode-color-theme.json"
+      },
+      {
+        "label": "Vulgocode Color Theme Bold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vulgocode-color-theme-bold.json"
       }
     ]
   },
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"
+  },
+  "__metadata": {
+    "id": "",
+    "publisherId": "",
+    "publisherDisplayName": "alexandreramos",
+    "name": "VulgocodeColorTheme"
   },
   "devDependencies": {
     "lodash": "^4.17.11"

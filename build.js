@@ -15,23 +15,11 @@ fs.writeFileSync(
 );
 
 fs.writeFileSync(
-  "./themes/Vulgocode-Color-Theme.json",
+  "./themes/Vulgocode-Color-Theme-bold.json",
   JSON.stringify(
     {
       ...editorConfig,
       ...bold
-    },
-    "",
-    2
-  )
-);
-
-fs.writeFileSync(
-  "./themes/OneDark-Pro-vivid.json",
-  JSON.stringify(
-    {
-      ...editorConfig,
-      ...vivid
     },
     "",
     2

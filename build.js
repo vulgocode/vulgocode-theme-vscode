@@ -1,15 +1,27 @@
-// const fs = require('fs')
-// const editorConfig = require('./src/editor.json')
-// const { classic, vivid } = require('./src/syntax')
+const fs = require("fs");
+const editorConfig = require("./src/editor.json");
+const { normal, bold } = require("./src/syntax");
 
-// fs.writeFileSync(
-//   './themes/OneDark-Pro.json',
-//   JSON.stringify(
-//     {
-//       ...editorConfig,
-//       ...classic
-//     },
-//     '',
-//     2
-//   )
-// )
+fs.writeFileSync(
+  "./themes/Vulgocode-Color-Theme.json",
+  JSON.stringify(
+    {
+      ...editorConfig,
+      ...normal
+    },
+    "",
+    2
+  )
+);
+
+fs.writeFileSync(
+  "./themes/Vulgocode-Color-Theme-bold.json",
+  JSON.stringify(
+    {
+      ...editorConfig,
+      ...bold
+    },
+    "",
+    2
+  )
+);

@@ -7,6 +7,7 @@
   "colors": {
     "editor.background": "#212121",
     "editor.foreground": "#F8F8F2",
+    "editor.lineHighlightBackground": "#313131",
     "activityBar.background": "#212121",
     "activityBar.foreground": "#b3b3b3",
     "activityBar.dropBackground": "#121212",

@@ -9,14 +9,14 @@ const configFactory = type => {
         name: "support.constant.edge",
         scope: "support.constant.edge",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "regexp constant character-class",
         scope: "constant.other.character-class.regexp",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -31,21 +31,21 @@ const configFactory = type => {
         scope:
           "punctuation.definition.string.begin,punctuation.definition.string.end",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "Text",
         scope: "variable.parameter.function",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Comments",
         scope: "comment, punctuation.definition.comment",
         settings: {
-          foreground: colorObj["lightDark"],
+          foreground: colorObj["paleSky"],
           fontStyle: "italic"
         }
       },
@@ -53,14 +53,14 @@ const configFactory = type => {
         name: "Comment Markup Link",
         scope: "comment markup.link",
         settings: {
-          foreground: colorObj["dark"]
+          foreground: colorObj["doveGray"]
         }
       },
       {
         name: "markup diff",
         scope: "markup.changed.diff",
         settings: {
-          foreground: colorObj["chalky"]
+          foreground: colorObj["sunglo"]
         }
       },
       {
@@ -75,21 +75,21 @@ const configFactory = type => {
         name: "inserted.diff",
         scope: "markup.inserted.diff",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "deleted.diff",
         scope: "markup.deleted.diff",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "c++ function",
         scope: "meta.function.c",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -97,14 +97,14 @@ const configFactory = type => {
         scope:
           "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "js/ts punctuation separator key-value",
         scope: "punctuation.separator.key-value",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -154,7 +154,7 @@ const configFactory = type => {
         name: "java source",
         scope: "source.java",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -162,7 +162,7 @@ const configFactory = type => {
         scope:
           "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,storage.type.generic.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,meta.method.body.java",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -183,7 +183,7 @@ const configFactory = type => {
         name: "java variable.name",
         scope: "meta.definition.variable.name.java",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -235,7 +235,7 @@ const configFactory = type => {
         name: "css comma",
         scope: "punctuation.separator.list.comma.css",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -257,7 +257,7 @@ const configFactory = type => {
         scope:
           "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -280,7 +280,7 @@ const configFactory = type => {
         scope:
           "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -306,14 +306,14 @@ const configFactory = type => {
           "keyword.operator.optional"
         ],
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "js/ts console",
         scope: "support.type.object.console",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -348,7 +348,7 @@ const configFactory = type => {
         name: "js dom variable",
         scope: "support.variable.dom,support.variable.property.dom",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -364,21 +364,21 @@ const configFactory = type => {
         scope:
           "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Punctuation",
         scope: "punctuation.separator.delimiter",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Other punctuation .c",
         scope: "punctuation.separator.c",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -392,7 +392,7 @@ const configFactory = type => {
         name: "keyword.operator.sizeof.c",
         scope: "keyword.operator.sizeof.c",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -413,21 +413,21 @@ const configFactory = type => {
         name: "python logical",
         scope: "keyword.operator.logical.python",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "meta.function-call.arguments.python",
         scope: "meta.function-call.arguments.python",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "meta.function-call.python",
         scope: "meta.function-call.python",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -442,7 +442,7 @@ const configFactory = type => {
         scope:
           "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python,meta.function-call.arguments.python",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -456,49 +456,49 @@ const configFactory = type => {
         name: "python placeholder reset to normal string",
         scope: "constant.character.format.placeholder.other.python",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "Delimiters",
         scope: "none",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Operators",
         scope: "keyword.operator",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Compound Assignment Operators",
         scope: "keyword.operator.assignment.compound",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Keywords",
         scope: "keyword",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Variables",
         scope: "variable",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "Java Variables",
         scope: "token.variable.parameter.java",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -512,14 +512,14 @@ const configFactory = type => {
         name: "Packages",
         scope: "token.package.keyword",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Packages",
         scope: "token.package",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -570,7 +570,7 @@ const configFactory = type => {
         name: "Class name php",
         scope: "variable.other.class.php",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -584,7 +584,7 @@ const configFactory = type => {
         name: "Keyword Control",
         scope: "keyword.control",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -612,14 +612,14 @@ const configFactory = type => {
         name: "Storage",
         scope: "storage",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Storage JS TS",
         scope: "token.storage",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -628,7 +628,7 @@ const configFactory = type => {
         scope:
           "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -649,14 +649,14 @@ const configFactory = type => {
         name: "Support type",
         scope: "support.type.property-name",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Support type",
         scope: "support.constant.property-value",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -670,14 +670,14 @@ const configFactory = type => {
         name: "Meta tag",
         scope: "meta.tag",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Strings, Inherited Class",
         scope: "string, entity.other.inherited-class",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
@@ -726,7 +726,7 @@ const configFactory = type => {
         name: "Tags",
         scope: "entity.name.tag",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -756,7 +756,7 @@ const configFactory = type => {
         name: "Selector",
         scope: "meta.selector",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -771,7 +771,7 @@ const configFactory = type => {
         scope: "markup.heading",
         settings: {
           fontStyle: "bold",
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -786,7 +786,7 @@ const configFactory = type => {
         name: "Units",
         scope: "keyword.other.unit",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -808,42 +808,42 @@ const configFactory = type => {
         name: "Italic",
         scope: "markup.italic, punctuation.definition.italic,todo.emphasis",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Italic",
         scope: "emphasis md",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown headings",
         scope: "entity.name.section.markdown",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
         scope: "punctuation.definition.heading.markdown",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "punctuation.definition.list.begin.markdown",
         scope: "punctuation.definition.list.begin.markdown",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown heading setext",
         scope: "markup.heading.setext",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -857,21 +857,21 @@ const configFactory = type => {
         name: "[VSCODE-CUSTOM] Markdown Inline Raw",
         scope: "markup.inline.raw.markdown",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown Inline Raw",
         scope: "markup.inline.raw.string.markdown",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
         scope: "punctuation.definition.list.markdown",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -890,21 +890,21 @@ const configFactory = type => {
           "punctuation.definition.metadata.markdown"
         ],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "beginning.punctuation.definition.list.markdown",
         scope: ["beginning.punctuation.definition.list.markdown"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
         scope: "punctuation.definition.metadata.markdown",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -912,7 +912,7 @@ const configFactory = type => {
         scope:
           "markup.underline.link.markdown,markup.underline.link.image.markdown",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -955,7 +955,7 @@ const configFactory = type => {
         name: "Embedded",
         scope: "punctuation.section.embedded, variable.interpolation",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -991,7 +991,7 @@ const configFactory = type => {
         scope:
           "source.json meta.structure.dictionary.json > string.quoted.json",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1000,7 +1000,7 @@ const configFactory = type => {
         scope:
           "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1009,7 +1009,7 @@ const configFactory = type => {
         scope:
           "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
@@ -1025,14 +1025,14 @@ const configFactory = type => {
         name: "[VSCODE-CUSTOM] JSON Property Name",
         scope: "support.type.property-name.json",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
         scope: "support.type.property-name.json punctuation",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1040,7 +1040,7 @@ const configFactory = type => {
         scope:
           "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1048,7 +1048,7 @@ const configFactory = type => {
         scope:
           "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1063,28 +1063,28 @@ const configFactory = type => {
         name: "error suppression",
         scope: "keyword.operator.error-control.php",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "php instanceof",
         scope: "keyword.operator.type.php",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "style double quoted array index normal begin",
         scope: "punctuation.section.array.begin.php",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "style double quoted array index normal end",
         scope: "punctuation.section.array.end.php",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -1115,7 +1115,7 @@ const configFactory = type => {
         scope:
           "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -1145,7 +1145,7 @@ const configFactory = type => {
         name: "php regexp operator",
         scope: "keyword.operator.regexp.php",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1159,14 +1159,14 @@ const configFactory = type => {
         name: "php dollar sign",
         scope: "punctuation.definition.variable.php",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "php heredoc/nowdoc",
         scope: "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1195,21 +1195,21 @@ const configFactory = type => {
         name: "parameter function js/ts",
         scope: "function.parameter",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "brace function",
         scope: "function.brace",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "parameter function ruby cs",
         scope: "function.parameter.ruby, function.parameter.cs",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -1244,7 +1244,7 @@ const configFactory = type => {
         name: "sass selector",
         scope: "selector.sass",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1268,7 +1268,7 @@ const configFactory = type => {
         name: "block scope",
         scope: "block.scope.end,block.scope.begin",
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
@@ -1282,7 +1282,7 @@ const configFactory = type => {
         name: "cs local variable",
         scope: "entity.name.variable.local.cs",
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1306,7 +1306,7 @@ const configFactory = type => {
       {
         scope: "token.debug-token",
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1317,21 +1317,21 @@ const configFactory = type => {
           "punctuation.section.embedded"
         ],
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "Reset JavaScript string interpolation expression",
         scope: ["meta.template.expression"],
         settings: {
-          foreground: colorObj["lightWhite"]
+          foreground: colorObj["alabaster"]
         }
       },
       {
         name: "Import module JS",
         scope: ["keyword.operator.module"],
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
@@ -1352,42 +1352,42 @@ const configFactory = type => {
         name: "js class prop",
         scope: ["meta.property.object"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "js func parameter",
         scope: ["variable.parameter.function.js"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "js template literals begin",
         scope: ["keyword.other.template.begin"],
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "js template literals end",
         scope: ["keyword.other.template.end"],
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "js template literals variable braces begin",
         scope: ["keyword.other.substitution.begin"],
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "js template literals variable braces end",
         scope: ["keyword.other.substitution.end"],
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
@@ -1432,14 +1432,14 @@ const configFactory = type => {
         name: "template literal",
         scope: ["punctuation.quasi.element"],
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "html/pug (jade) escaped characters and entities",
         scope: ["constant.character.entity"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1464,7 +1464,7 @@ const configFactory = type => {
         name: "Clojure symbols",
         scope: ["meta.symbol.clojure"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1478,21 +1478,21 @@ const configFactory = type => {
         name: "CoffeeScript Function Argument",
         scope: ["meta.arguments.coffee", "variable.parameter.function.coffee"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "Ini Default Text",
         scope: ["source.ini"],
         settings: {
-          foreground: colorObj["green"]
+          foreground: colorObj["yellowGreen"]
         }
       },
       {
         name: "Makefile prerequisities",
         scope: ["meta.scope.prerequisites.makefile"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1520,13 +1520,13 @@ const configFactory = type => {
         name: "Groovy Variables",
         scope: ["meta.definition.variable.name.groovy"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
         name: "Groovy Inheritance",
         scope: ["meta.definition.class.inherited.classes.groovy"],
-        settings: { foreground: colorObj["green"] }
+        settings: { foreground: colorObj["yellowGreen"] }
       },
       {
         name: "HLSL Semantic",
@@ -1546,14 +1546,14 @@ const configFactory = type => {
           "support.type.object.hlsl"
         ],
         settings: {
-          foreground: colorObj["purple"]
+          foreground: colorObj["lavender"]
         }
       },
       {
         name: "SQL Variables",
         scope: ["text.variable", "text.bracketed"],
         settings: {
-          foreground: colorObj["coral"]
+          foreground: colorObj["harvestGold"]
         }
       },
       {
@@ -1567,4 +1567,4 @@ const configFactory = type => {
   };
 };
 
-module.exports = { default: configFactory("default") };
+module.exports = { normal: configFactory("normal") };

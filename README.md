@@ -32,7 +32,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Alexandre Ramos](https://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](http://github.com/alexandrerstos) |
 | :----------------------------------------------------------------------------------------------------------------: |
-|                               [Alexandre Ramos](http://github.com/alexandreramosdev)                               |
+|                              [Alexandre Ramos](https://github.com/alexandreramosdev)                               |
 
 ## Customization
 

@@ -51,7 +51,7 @@
     "build": "node build.js"
   },
   "__metadata": {
-    "id": "",
+    "id": "alexandreramos",
     "publisherId": "vulgocode-color-theme",
     "publisherDisplayName": "alexandreramos",
     "name": "VulgocodeColorTheme"

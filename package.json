@@ -2,7 +2,7 @@
   "name": "vulgocode-color-theme",
   "displayName": "Vulgocode Color Theme",
   "description": "Beautiful Dark Theme for VSCode.",
-  "version": "0.3.11",
+  "version": "0.3.13",
   "publisher": "alexandreramos",
   "engines": {
     "vscode": "^1.21.0"
@@ -46,11 +46,6 @@
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"
-  },
-  "__metadata": {
-    "publisherId": "alexandreramos",
-    "publisherDisplayName": "alexandreramos",
-    "name": "VulgocodeColorTheme"
   },
   "scripts": {
     "build": "node build.js"

@@ -16,31 +16,31 @@ ext install Vulgocode Color
 
 #### Javascript
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/javascript.png)
+![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/javascript.png)
 
 #### Html
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/html.png)
+![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/html.png)
 
 #### JSON
 
-![Screenshot](https://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/JSON.png)
+![Screenshot](http://raw.githubusercontent.com/AlexandreRStos/vulgocode-theme-vscode/master/static/JSON.png)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/AlexandreRStos/vulgocode-theme-vscode/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](http://github.com/AlexandreRStos/vulgocode-theme-vscode/graphs/contributors).
 
-| [![Alexandre Ramos](https://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](https://github.com/alexandrerstos) |
-| :-----------------------------------------------------------------------------------------------------------------: |
-|                                [Alexandre Ramos](https://github.com/alexandrerstos)                                 |
+| [![Alexandre Ramos](http://avatars3.githubusercontent.com/u/34720135?s=70&v=4)](http://github.com/alexandrerstos) |
+| :---------------------------------------------------------------------------------------------------------------: |
+|                                [Alexandre Ramos](http://github.com/alexandrerstos)                                |
 
 ## Customization
 
-If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
+If you are using VSCode 1.2+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](http://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
 
 ## Custom Font
 
-I don't supply a custom font either, but you might be used to see screenshots of the VulgoCode Color theme using the [FiraCode](https://github.com/tonsky/FiraCode) font. You can easily [customize your settings](https://code.visualstudio.com/docs/getstarted/settings) to use it.  
+I don't supply a custom font either, but you might be used to see screenshots of the VulgoCode Color theme using the [FiraCode](http://github.com/tonsky/FiraCode) font. You can easily [customize your settings](http://code.visualstudio.com/docs/getstarted/settings) to use it.  
 If you download and install the font in your system, you can add this option to have a custom font:
 
 ```json

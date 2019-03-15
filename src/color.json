@@ -1,20 +1,30 @@
 {
-  "colors": {
-    "normal": {
-      "paleSky": "#676f7d",
-      "cadetBlue": "#abb2bf",
-      "yellowGreen": "#a5e57b",
-      "olivine": "#98c379",
-      "harvestGold": "#E5C07B",
-      "whiskey": "#d19a66",
-      "sunglo": "#e06c75",
-      "cornflowerBlue": "#61AFEF",
-      "fountainBlue": "#56b6c2",
-      "fuchsiaBlue": "#7159C1",
-      "lavender": "#c678dd",
-      "crocodile": "#75715E",
-      "doveGray": "#696969",
-      "alabaster": "#f8f8f8"
-    }
+  "normal": {
+    "purple": "#c678dd",
+    "error": "#f44747",
+    "coral": "#e06c75",
+    "whiskey": "#d19a66",
+    "chalky": "#e5c07b",
+    "lightDark": "#7f848e",
+    "dark": "#5c6370",
+    "malibu": "#61afef",
+    "green": "#98c379",
+    "fountainBlue": "#56b6c2",
+    "invalid": "#ffffff",
+    "lightWhite": "#abb2bf"
+  },
+  "bold": {
+    "purple": "#c678dd",
+    "error": "#f44747",
+    "coral": "#e06c75",
+    "whiskey": "#d19a66",
+    "chalky": "#E5C07B",
+    "lightDark": "#7F848E",
+    "dark": "#5C6370",
+    "malibu": "#61AFEF",
+    "green": "#98c379",
+    "fountainBlue": "#56b6c2",
+    "invalid": "#FFFFFF",
+    "lightWhite": "#abb2bf"
   }
 }

@@ -39,5 +39,8 @@
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.11"
   }
 }

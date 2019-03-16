@@ -50,12 +50,6 @@
   "scripts": {
     "build": "node build.js"
   },
-  "__metadata": {
-    "id": "alexandreramos",
-    "publisherId": "vulgocode-color-theme",
-    "publisherDisplayName": "alexandreramos",
-    "name": "VulgocodeColorTheme"
-  },
   "devDependencies": {
     "lodash": "^4.17.11"
   }

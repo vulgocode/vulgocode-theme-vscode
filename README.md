@@ -12,19 +12,13 @@ Launch VS Code Quick Open `(Ctrl+P)`, paste the following command, and press ent
 ext install Vulgocode Color
 ```
 
-## Screenshot
+## ScreenShooter
 
-#### Javascript
+[![Screenshot javascript](https://imgur.com/dkP2mRml.png)](https://imgur.com/dkP2mRml.png)
 
-![Screenshot](/static/javascript.png)
+[![Screenshot](https://i.imgur.com/Ns0vPjj.png)](https://i.imgur.com/Ns0vPjj.png)
 
-#### Html
-
-![Screenshot](/static/html.png)
-
-#### JSON
-
-![Screenshot](/static/JSON.png)
+[![Screenshot](https://i.imgur.com/7Bglkox.png)](https://i.imgur.com/7Bglkox.png)
 
 ## Team
 

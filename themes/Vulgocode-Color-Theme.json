@@ -13,8 +13,6 @@
     "dropdown.border": "#7159c1",
     "input.border": "#7159c1",
     "inputOption.activeBorder": "#7159c1",
-    "editor.lineHighlightBackground": "#7e57c240",
-    "editorSuggestWidget.highlightForeground": "#7e57c2",
     "editorGroup.border": "#7159C1",
     "editorGroup.dropBackground": "#212121",
     "activityBar.background": "#212121",
@@ -30,14 +28,14 @@
     "sideBarSectionHeader.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#212121",
     "sideBarSectionHeader.border": "#121212",
-    "list.activeSelectionBackground": "#535353",
+    "list.activeSelectionBackground": "#7159C194",
     "list.activeSelectionForeground": "#F8F8F2",
-    "list.dropBackground": "#212121",
-    "list.hoverBackground": "#212121",
+    "list.dropBackground": "#7159C140",
+    "list.hoverBackground": "#7159C140",
     "list.hoverForeground": "#F8F8F2",
-    "list.focusBackground": "#212121",
+    "list.focusBackground": "#7159C1",
     "list.focusForeground": "#F8F8F2",
-    "list.inactiveSelectionBackground": "#212121",
+    "list.inactiveSelectionBackground": "#7159C140",
     "list.inactiveFocusBackground": "#121212",
     "list.inactiveSelectionForeground": "#F8F8F2",
     "list.highlightForeground": "#F8F8F2",
@@ -64,7 +62,8 @@
     "peekViewResult.matchHighlightBackground": "#7e57c25a",
     "button.background": "#7e57c2",
     "badge.foreground": "#7e57c2",
-    "badge.background": "#212121"
+    "badge.background": "#212121",
+    "editor.findMatchBackground": "#7e57c25a"
   },
   "tokenColors": [
     {

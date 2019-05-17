@@ -9,8 +9,8 @@
     "dark": "#5c6370",
     "malibu": "#61afef",
     "green": "#98c379",
-    "fountainBlue": "#56b6c2",
-    "invalid": "#ffffff",
+    "blue": "#2196f3",
+    "invalid": "#f8f8f8",
     "lightWhite": "#abb2bf"
   },
   "bold": {
@@ -23,8 +23,8 @@
     "dark": "#5C6370",
     "malibu": "#61AFEF",
     "green": "#98c379",
-    "fountainBlue": "#56b6c2",
-    "invalid": "#FFFFFF",
+    "blue": "#2196f3",
+    "invalid": "#F8F8F8",
     "lightWhite": "#abb2bf"
   }
 }

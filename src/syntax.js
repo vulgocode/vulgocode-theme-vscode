@@ -107,7 +107,7 @@ const configFactory = type => {
       name: "entity.name.type.rust",
       scope: "entity.name.type.rust",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -308,21 +308,21 @@ const configFactory = type => {
       name: "operator logical",
       scope: "keyword.operator.logical.js",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
       name: "operator bitwise",
       scope: "keyword.operator.bitwise",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
       name: "operator channel",
       scope: "keyword.operator.channel",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -337,7 +337,7 @@ const configFactory = type => {
       name: "CSS/SCSS/LESS Operators",
       scope: "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -366,7 +366,7 @@ const configFactory = type => {
       name: "css property-name",
       scope: "support.type.vendored.property-name.css",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -451,14 +451,14 @@ const configFactory = type => {
       name: "js operator",
       scope: "keyword.operator",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
       name: "js dom",
       scope: "support.type.object.dom",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -473,7 +473,7 @@ const configFactory = type => {
       scope:
         "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -502,7 +502,7 @@ const configFactory = type => {
       name: "C type posix-reserved",
       scope: "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -523,7 +523,7 @@ const configFactory = type => {
       name: "python type",
       scope: "support.type.python",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -752,7 +752,7 @@ const configFactory = type => {
       name: "Support",
       scope: "support.function",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -794,7 +794,7 @@ const configFactory = type => {
       name: "Constant other symbol",
       scope: "constant.other.symbol",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1051,14 +1051,14 @@ const configFactory = type => {
       name: "Regular Expressions",
       scope: "string.regexp",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
       name: "Escape Characters",
       scope: "constant.character.escape",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1127,7 +1127,7 @@ const configFactory = type => {
       scope:
         "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1247,7 +1247,7 @@ const configFactory = type => {
       scope:
         "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1261,7 +1261,7 @@ const configFactory = type => {
       name: "php comparison",
       scope: "keyword.operator.comparison.php",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1283,7 +1283,7 @@ const configFactory = type => {
       scope:
         "support.token.decorator.python,meta.function.decorator.identifier.python",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1318,14 +1318,14 @@ const configFactory = type => {
       name: "constant.language.symbol.ruby",
       scope: "constant.language.symbol.ruby",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
       name: "rgb-value",
       scope: "rgb-value",
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1487,7 +1487,7 @@ const configFactory = type => {
       name: "js operator.assignment",
       scope: ["keyword.operator.assignment"],
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1508,7 +1508,7 @@ const configFactory = type => {
       name: "elm prelude",
       scope: ["support.type.prelude.elm"],
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1540,7 +1540,7 @@ const configFactory = type => {
         "entity.other.attribute-name.pseudo-class"
       ],
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {
@@ -1561,7 +1561,7 @@ const configFactory = type => {
       name: "Clojure constants",
       scope: ["constant.keyword.clojure"],
       settings: {
-        foreground: colorObj["fountainBlue"]
+        foreground: colorObj["blue"]
       }
     },
     {

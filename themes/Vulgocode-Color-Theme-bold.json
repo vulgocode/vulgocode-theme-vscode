@@ -155,7 +155,7 @@
       "name": "entity.name.type.rust",
       "scope": "entity.name.type.rust",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -352,21 +352,21 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical.js",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
       "name": "operator bitwise",
       "scope": "keyword.operator.bitwise",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
       "name": "operator channel",
       "scope": "keyword.operator.channel",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -380,7 +380,7 @@
       "name": "CSS/SCSS/LESS Operators",
       "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -408,7 +408,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -490,14 +490,14 @@
       "name": "js operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
       "name": "js dom",
       "scope": "support.type.object.dom",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -511,7 +511,7 @@
       "name": "keyword.operator",
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "C type posix-reserved",
       "scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -560,7 +560,7 @@
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -767,7 +767,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -809,7 +809,7 @@
       "name": "Constant other symbol",
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1065,14 +1065,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1086,28 +1086,28 @@
       "name": "Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F8F8F8"
       }
     },
     {
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F8F8F8"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F8F8F8"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F8F8F8"
       }
     },
     {
@@ -1135,7 +1135,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
       "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       "name": "php logical/bitwise operator",
       "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1261,7 +1261,7 @@
       "name": "php comparison",
       "scope": "keyword.operator.comparison.php",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1282,7 +1282,7 @@
       "name": "python function support",
       "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1317,14 +1317,14 @@
       "name": "constant.language.symbol.ruby",
       "scope": "constant.language.symbol.ruby",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1507,7 +1507,7 @@
         "keyword.operator.assignment"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1535,7 +1535,7 @@
         "support.type.prelude.elm"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1572,7 +1572,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1599,7 +1599,7 @@
         "constant.keyword.clojure"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#2196f3"
       }
     },
     {

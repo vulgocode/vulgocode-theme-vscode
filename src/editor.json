@@ -63,6 +63,7 @@
     "button.background": "#7e57c2",
     "badge.foreground": "#7e57c2",
     "badge.background": "#212121",
-    "editor.findMatchBackground": "#7e57c25a"
+    "editor.findMatchBackground": "#7e57c25a",
+    "editor.lineHighlightBackground": "#7e57c25a"
   }
 }

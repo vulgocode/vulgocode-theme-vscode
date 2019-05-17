@@ -49,7 +49,10 @@
     "notificationCenterHeader.foreground": "#b3b3b3",
     "notificationCenterHeader.background": "#121212",
     "tab.activeBackground": "#212121",
-    "terminal.background": "#121212"
+    "terminal.background": "#121212",
+    "editorUnnecessaryCode.opacity": "#000000a0",
+    "peekViewEditor.matchHighlightBackground": "#7e57c25a",
+    "peekViewResult.matchHighlightBackground": "#7e57c25a"
   },
   "tokenColors": [
     {

@@ -57,7 +57,7 @@
     "terminal.border": "#212121",
     "breadcrumb.background": "#121212",
     "panel.border": "#121212",
-    "editorUnnecessaryCode.opacity": "#000000a0",
+    "editorUnnecessaryCode.opacity": "#00000043",
     "peekViewEditor.matchHighlightBackground": "#7e57c25a",
     "peekViewResult.matchHighlightBackground": "#7e57c25a",
     "button.background": "#7e57c2",
@@ -226,7 +226,7 @@
     },
     {
       "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+      "scope": "\n        entity.other.attribute-name.js,\n        entity.other.attribute-name.ts,\n        entity.other.attribute-name.jsx,\n        entity.other.attribute-name.tsx,\n        variable.parameter,\n        variable.language.super",
       "settings": {
         "fontStyle": "italic"
       }
@@ -249,7 +249,7 @@
       "name": "math property js/ts",
       "scope": "support.constant.property.math",
       "settings": {
-        "foreground": "#d19a66"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -373,9 +373,9 @@
     },
     {
       "name": "js/ts module",
-      "scope": "support.module.node,support.type.object.module,support.module.node",
+      "scope": "\n        support.module.node,\n        support.type.object.module,\n        support.module.node",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -387,14 +387,14 @@
     },
     {
       "name": "js variable readwrite",
-      "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+      "scope": " support.variable.property,\n          support.variable.object.process,\n          support.variable.object.node,\n          variable.other.readwrite,\n          meta.object-literal.key",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#e5c07b"
       }
     },
     {
       "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
+      "scope": "\n        comment.line.double-slash,\n        comment.block.documentation",
       "settings": {
         "fontStyle": "italic"
       }
@@ -462,14 +462,14 @@
     },
     {
       "name": "keyword.operator",
-      "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment",
+      "scope": "\n        keyword.operator.arithmetic,\n        keyword.operator.comparison,\n        keyword.operator.decrement,\n        keyword.operator.increment",
       "settings": {
         "foreground": "#2196f3"
       }
     },
     {
       "name": "C operator assignment",
-      "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
+      "scope": "\n        keyword.operator.assignment.c,\n        keyword.operator.comparison.c,\n        keyword.operator.c,\n        keyword.operator.increment.c,\n        keyword.operator.decrement.c,\n        keyword.operator.bitwise.shift.c,\n        keyword.operator.assignment.cpp,\n        keyword.operator.comparison.cpp,\n        keyword.operator.cpp,\n        keyword.operator.increment.cpp,\n        keyword.operator.decrement.cpp,\n        keyword.operator.bitwise.shift.cpp",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -688,21 +688,21 @@
     },
     {
       "name": "Python Keyword Control",
-      "scope": "keyword.control.import.python,keyword.control.flow.python",
+      "scope": "\n        keyword.control.import.python,\n        keyword.control.flow.python",
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Control Elements",
-      "scope": "control.elements, keyword.operator.less",
+      "scope": "\n        control.elements, \n        keyword.operator.less",
       "settings": {
         "foreground": "#d19a66"
       }
     },
     {
       "name": "Methods",
-      "scope": "keyword.other.special-method",
+      "scope": "\n        keyword.other.special-method",
       "settings": {
         "foreground": "#61afef"
       }
@@ -723,7 +723,7 @@
     },
     {
       "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
+      "scope": "\n        keyword.operator.expression.delete,\n        keyword.operator.expression.in,\n        keyword.operator.expression.of,\n        keyword.operator.expression.instanceof,\n        keyword.operator.new,\n        keyword.operator.expression.typeof,\n        keyword.operator.expression.void",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -802,7 +802,7 @@
       "name": "Boolean",
       "scope": "none",
       "settings": {
-        "foreground": "#d19a66"
+        "foreground": "#98c379"
       }
     },
     {
@@ -873,7 +873,7 @@
     },
     {
       "name": "Headings",
-      "scope": "markup.heading punctuation.definition.heading, entity.name.section",
+      "scope": "\n        markup.heading punctuation.definition.heading, \n        entity.name.section",
       "settings": {
         "foreground": "#61afef"
       }
@@ -902,7 +902,7 @@
     },
     {
       "name": "Italic",
-      "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
+      "scope": "\n        markup.italic, \n        punctuation.definition.italic,\n        todo.emphasis",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -1007,14 +1007,14 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
-      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
+      "scope": "\n        markup.underline.link.markdown,\n        markup.underline.link.image.markdown",
       "settings": {
         "foreground": "#c678dd"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
+      "scope": "\n        string.other.link.title.markdown,\n        string.other.link.description.markdown",
       "settings": {
         "foreground": "#61afef"
       }
@@ -1049,7 +1049,7 @@
     },
     {
       "name": "Embedded",
-      "scope": "punctuation.section.embedded, variable.interpolation",
+      "scope": "\n        punctuation.section.embedded, \n        variable.interpolation",
       "settings": {
         "foreground": "#e06c75"
       }
@@ -1146,8 +1146,8 @@
       }
     },
     {
-      "name": "error suppression",
-      "scope": "keyword.operator.error-control.php",
+      "name": "red suppression",
+      "scope": "keyword.operator.red-control.php",
       "settings": {
         "foreground": "#c678dd"
       }
@@ -1196,14 +1196,14 @@
     },
     {
       "name": "php function-resets",
-      "scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
+      "scope": "\n        punctuation.definition.parameters.begin.bracket.round.php,\n        punctuation.definition.parameters.end.bracket.round.php,\n        punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,\n        punctuation.section.scope.end.php,punctuation.terminator.expression.php,\n        punctuation.definition.arguments.begin.bracket.round.php,\n        punctuation.definition.arguments.end.bracket.round.php,\n        punctuation.definition.storage-type.begin.bracket.round.php,\n        punctuation.definition.storage-type.end.bracket.round.php,\n        punctuation.definition.array.begin.bracket.round.php,\n        punctuation.definition.array.end.bracket.round.php,\n        punctuation.definition.begin.bracket.round.php,\n        punctuation.definition.end.bracket.round.php,\n        punctuation.definition.begin.bracket.curly.php,\n        punctuation.definition.end.bracket.curly.php,\n        punctuation.definition.section.switch-block.end.bracket.curly.php,\n        punctuation.definition.section.switch-block.start.bracket.curly.php,\n        punctuation.definition.section.switch-block.begin.bracket.curly.php,\n        punctuation.definition.section.switch-block.end.bracket.curly.php",
       "settings": {
         "foreground": "#abb2bf"
       }
     },
     {
       "name": "support php constants",
-      "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
+      "scope": "\n        support.constant.ext.php,\n        support.constant.std.php,\n        support.constant.core.php,\n        support.constant.parser-token.php",
       "settings": {
         "foreground": "#d19a66"
       }
@@ -1217,7 +1217,7 @@
     },
     {
       "name": "php logical/bitwise operator",
-      "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
+      "scope": "\n      keyword.operator.logical.php,\n      keyword.operator.bitwise.php,\n      keyword.operator.arithmetic.php",
       "settings": {
         "foreground": "#2196f3"
       }
@@ -1252,23 +1252,16 @@
     },
     {
       "name": "python function support",
-      "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
+      "scope": "\n        support.token.decorator.python,\n        meta.function.decorator.identifier.python",
       "settings": {
         "foreground": "#2196f3"
       }
     },
     {
-      "name": "parameter function",
-      "scope": "function.parameter",
-      "settings": {
-        "foreground": "#d19a66"
-      }
-    },
-    {
       "name": "parameter function js/ts",
-      "scope": "function.parameter",
+      "scope": "function.parameter.js",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#2196f3"
       }
     },
     {
@@ -1361,7 +1354,7 @@
       }
     },
     {
-      "scope": "token.error-token",
+      "scope": "token.red-token",
       "settings": {
         "foreground": "#f44747"
       }

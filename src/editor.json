@@ -57,7 +57,7 @@
     "terminal.border": "#212121",
     "breadcrumb.background": "#121212",
     "panel.border": "#121212",
-    "editorUnnecessaryCode.opacity": "#000000a0",
+    "editorUnnecessaryCode.opacity": "#00000043",
     "peekViewEditor.matchHighlightBackground": "#7e57c25a",
     "peekViewResult.matchHighlightBackground": "#7e57c25a",
     "button.background": "#7e57c2",

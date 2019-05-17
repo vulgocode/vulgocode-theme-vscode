@@ -1,7 +1,7 @@
 {
   "normal": {
     "purple": "#c678dd",
-    "error": "#f44747",
+    "red": "#f44747",
     "coral": "#e06c75",
     "whiskey": "#d19a66",
     "chalky": "#e5c07b",
@@ -15,7 +15,7 @@
   },
   "bold": {
     "purple": "#c678dd",
-    "error": "#f44747",
+    "red": "#f44747",
     "coral": "#e06c75",
     "whiskey": "#d19a66",
     "chalky": "#E5C07B",

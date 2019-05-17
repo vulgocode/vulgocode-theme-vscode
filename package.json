@@ -52,10 +52,8 @@
     "watch": "chokidar src/* -c 'npm run build'"
   },
   "devDependencies": {
+    "chokidar-cli": "^1.2.2",
     "lodash": "^4.17.11"
   },
-  "dependencies": {
-    "chokidar": "^2.1.6",
-    "chokidar-cli": "^1.2.2"
-  }
+  "dependencies": {}
 }

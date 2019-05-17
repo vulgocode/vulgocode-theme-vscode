@@ -48,9 +48,14 @@
     "theme": "dark"
   },
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "watch": "chokidar src/* -c 'npm run build'"
   },
   "devDependencies": {
     "lodash": "^4.17.11"
+  },
+  "dependencies": {
+    "chokidar": "^2.1.6",
+    "chokidar-cli": "^1.2.2"
   }
 }

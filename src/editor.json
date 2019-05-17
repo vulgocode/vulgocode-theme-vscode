@@ -53,7 +53,7 @@
     "notificationCenterHeader.foreground": "#b3b3b3",
     "notificationCenterHeader.background": "#121212",
     "tab.activeBackground": "#212121",
-    "terminal.background": "#121212",
+    "terminal.background": "#212121",
     "terminal.border": "#212121",
     "breadcrumb.background": "#121212",
     "panel.border": "#121212",
@@ -64,6 +64,8 @@
     "badge.foreground": "#7e57c2",
     "badge.background": "#212121",
     "editor.findMatchBackground": "#7e57c25a",
-    "editor.lineHighlightBackground": "#7e57c25a"
+    "editor.lineHighlightBackground": "#7e57c25a",
+    "panel.background": "#121212",
+    "panelTitle.activeBorder": "#7e57c2"
   }
 }

@@ -82,8 +82,7 @@ const configFactory = type => {
 
     {
       name: `punctuation.separator.parameters.python`,
-      scope:
-        `punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python,`,
+      scope: `punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python,`,
       settings: {
         foreground: colorObj[`lightWhite`]
       }
@@ -163,8 +162,7 @@ const configFactory = type => {
 
     {
       name: `punctuation.definition`,
-      scope:
-        `punctuation.definition.string.begin,punctuation.definition.string.end`,
+      scope: `punctuation.definition.string.begin,punctuation.definition.string.end`,
       settings: {
         foreground: colorObj[`green`]
       }
@@ -237,8 +235,7 @@ const configFactory = type => {
 
     {
       name: `c++ block`,
-      scope:
-        `punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c`,
+      scope: `punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c`,
       settings: {
         foreground: colorObj[`lightWhite`]
       }
@@ -316,8 +313,7 @@ const configFactory = type => {
 
     {
       name: `java modifier.import`,
-      scope:
-        `punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,storage.type.generic.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,meta.method.body.java`,
+      scope: `punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,storage.type.generic.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,meta.method.body.java`,
       settings: {
         foreground: colorObj[`lightWhite`]
       }
@@ -373,8 +369,7 @@ const configFactory = type => {
 
     {
       name: `support.constant.property-value.scss`,
-      scope:
-        `support.constant.property-value.scss,support.constant.property-value.css`,
+      scope: `support.constant.property-value.scss,support.constant.property-value.css`,
       settings: {
         foreground: colorObj[`whiskey`]
       }
@@ -390,8 +385,7 @@ const configFactory = type => {
 
     {
       name: `css color standard name`,
-      scope:
-        `support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss`,
+      scope: `support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss`,
       settings: {
         foreground: colorObj[`whiskey`]
       }
@@ -423,8 +417,7 @@ const configFactory = type => {
 
     {
       name: `js/ts template-expression`,
-      scope:
-        `punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end`,
+      scope: `punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end`,
       settings: {
         foreground: colorObj[`coral`]
       }
@@ -451,8 +444,7 @@ const configFactory = type => {
 
     {
       name: `js variable readwrite`,
-      scope:
-        ` support.variable.property,
+      scope: ` support.variable.property,
           support.variable.object.process,
           support.variable.object.node,
           variable.other.readwrite,
@@ -472,7 +464,6 @@ const configFactory = type => {
       }
     },
 
-
     {
       name: `js/ts json`,
       scope: `support.constant.json`,
@@ -480,7 +471,6 @@ const configFactory = type => {
         foreground: colorObj[`whiskey`]
       }
     },
-
 
     {
       name: `js/ts Keyword`,
@@ -494,7 +484,6 @@ const configFactory = type => {
         foreground: colorObj[`purple`]
       }
     },
-
 
     {
       name: `js/ts console`,
@@ -642,8 +631,7 @@ const configFactory = type => {
 
     {
       name: `python block`,
-      scope:
-        `punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python`,
+      scope: `punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python`,
       settings: {
         foreground: colorObj[`lightWhite`]
       }
@@ -864,8 +852,7 @@ const configFactory = type => {
     },
 
     {
-      name:
-        `Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void`,
+      name: `Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void`,
       scope: `
         keyword.operator.expression.delete,
         keyword.operator.expression.in,
@@ -899,7 +886,7 @@ const configFactory = type => {
       name: `Support type`,
       scope: `support.type.property-name`,
       settings: {
-        foreground: colorObj[`lightWhite`]
+        foreground: colorObj[`blue`]
       }
     },
 
@@ -1300,30 +1287,24 @@ const configFactory = type => {
     },
 
     {
-      name:
-        `Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String`,
-      scope:
-        `source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string`,
+      name: `Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String`,
+      scope: `source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string`,
       settings: {
         foreground: colorObj[`coral`]
       }
     },
 
     {
-      name:
-        `Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation`,
-      scope:
-        `source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation`,
+      name: `Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation`,
+      scope: `source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation`,
       settings: {
         foreground: colorObj[`green`]
       }
     },
 
     {
-      name:
-        `Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json`,
-      scope:
-        `source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json`,
+      name: `Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json`,
+      scope: `source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json`,
       settings: {
         foreground: colorObj[`blue`]
       }
@@ -1347,8 +1328,7 @@ const configFactory = type => {
 
     {
       name: `laravel blade tag`,
-      scope:
-        `text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade`,
+      scope: `text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade`,
       settings: {
         foreground: colorObj[`purple`]
       }
@@ -1356,8 +1336,7 @@ const configFactory = type => {
 
     {
       name: `laravel blade @`,
-      scope:
-        `text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade`,
+      scope: `text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade`,
       settings: {
         foreground: colorObj[`purple`]
       }
@@ -1365,8 +1344,7 @@ const configFactory = type => {
 
     {
       name: `use statement for other classes`,
-      scope:
-        `support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php`,
+      scope: `support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php`,
       settings: {
         foreground: colorObj[`chalky`]
       }
@@ -1414,8 +1392,7 @@ const configFactory = type => {
 
     {
       name: `php types`,
-      scope:
-        `storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php`,
+      scope: `storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php`,
       settings: {
         foreground: colorObj[`chalky`]
       }
@@ -1423,8 +1400,7 @@ const configFactory = type => {
 
     {
       name: `php call-function`,
-      scope:
-        `meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php`,
+      scope: `meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php`,
       settings: {
         foreground: colorObj[`malibu`]
       }
@@ -1595,8 +1571,7 @@ const configFactory = type => {
 
     {
       name: `ts primitive/builtin types`,
-      scope:
-        `support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx`,
+      scope: `support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx`,
       settings: {
         foreground: colorObj[`chalky`]
       }
@@ -1803,8 +1778,7 @@ const configFactory = type => {
     },
 
     {
-      name:
-        `styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour`,
+      name: `styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour`,
       scope: [
         `entity.other.attribute-name.pseudo-element`,
         `entity.other.attribute-name.pseudo-class`

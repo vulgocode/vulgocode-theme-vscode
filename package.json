@@ -18,7 +18,9 @@
     "dark",
     "vulgocode-theme",
     "vulgocode color theme",
-    "spotify"
+    "spotify",
+    "github markdown",
+    "markdown"
   ],
   "icon": "icon.png",
   "repository": {
@@ -41,6 +43,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Vulgocode-Color-Theme-bold.json"
       }
+    ],
+    "markdown.previewStyles": [
+      "./themes/base.css",
+      "./themes/github-markdown.css",
+      "./node_modules/highlight.js/styles/github.css"
     ]
   },
   "galleryBanner": {
@@ -53,7 +60,10 @@
   },
   "devDependencies": {
     "chokidar-cli": "^1.2.2",
+    "github-markdown-css": "^3.0.1",
     "lodash": "^4.17.11"
   },
-  "dependencies": {}
+  "dependencies": {
+    "highlight.js": "^9.15.6"
+  }
 }

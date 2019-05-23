@@ -11,16 +11,23 @@
     "Alexandre Ramos <alexandresantos84@gmail.com>"
   ],
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "theme",
     "dark",
+    "vulgo code",
     "vulgocode-theme",
     "vulgocode color theme",
     "spotify",
     "github markdown",
-    "markdown"
+    "markdown",
+    "checkbox",
+    "checkboxes",
+    "task list",
+    "multi-root ready",
+    "github"
   ],
   "icon": "icon.png",
   "repository": {
@@ -44,12 +51,16 @@
         "path": "./themes/Vulgocode-Color-Theme-bold.json"
       }
     ],
+    "markdown.markdownItPlugins": true,
     "markdown.previewStyles": [
       "./themes/base.css",
       "./themes/github-markdown.css",
-      "./node_modules/highlight.js/styles/github.css"
+      "./node_modules/highlight.js/styles/github.css",
+      "./themes/checkboxes.css"
     ]
   },
+  "activationEvents": [],
+  "main": "./index.js",
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"
@@ -64,6 +75,7 @@
     "lodash": "^4.17.11"
   },
   "dependencies": {
-    "highlight.js": "^9.15.6"
+    "highlight.js": "^9.15.6",
+    "markdown-it-task-lists": "^2.1.1"
   }
 }

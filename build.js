@@ -49,3 +49,4 @@ const input = fs.readFileSync(fullPath, "utf8");
 fs.writeFileSync("themes/github-markdown.css", updateGithubMarkdownCss(input));
 
 fs.copyFileSync("./src/base.css", "./themes/base.css");
+fs.copyFileSync("./src/checkboxes.css", "./themes/checkboxes.css");

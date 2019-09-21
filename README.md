@@ -1,4 +1,4 @@
-# Vulgocode Theme for VSCode
+# Vulgocode Color Theme VSCode
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/alexandreramos.vulgocode-color-theme.svg)](https://marketplace.visualstudio.com/items/alexandreramos.vulgocode-color-theme)
 
@@ -9,7 +9,7 @@
 Launch VS Code Quick Open `(Ctrl+P)`, paste the following command, and press enter.
 
 ```
-ext install Vulgocode theme
+ext install Vulgocode
 ```
 
 or Open `Crtl + Shift + X` and search for Vulgocode Color Theme

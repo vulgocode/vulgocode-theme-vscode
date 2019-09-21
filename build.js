@@ -14,7 +14,7 @@ const inputPath = path.join(
 const fullPath = path.join(__dirname, inputPath);
 
 fs.writeFileSync(
-  "./themes/vulgocode-theme.json",
+  "./themes/Vulgocode-Color-Theme.json",
   JSON.stringify(
     {
       ...editorConfig,
@@ -26,7 +26,7 @@ fs.writeFileSync(
 );
 
 fs.writeFileSync(
-  "./themes/vulgocode-theme-bold.json",
+  "./themes/Vulgocode-Color-Theme-bold.json",
   JSON.stringify(
     {
       ...editorConfig,

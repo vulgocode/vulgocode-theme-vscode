@@ -1,6 +1,6 @@
 {
-  "name": "vulgocode-theme",
-  "displayName": "Vulgocode theme",
+  "name": "vulgocode-color-theme",
+  "displayName": "Vulgocode Color Theme",
   "description": "Beautiful Dark Theme for VSCode.",
   "version": "0.6.6",
   "publisher": "alexandreramos",
@@ -41,14 +41,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vulgocode Theme",
+        "label": "Vulgocode Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vulgocode-theme.json"
+        "path": "./themes/Vulgocode-Color-Theme.json"
       },
       {
-        "label": "Vulgocode Theme Bold",
+        "label": "Vulgocode Color Theme Bold",
         "uiTheme": "vs-dark",
-        "path": "./themes/vulgocode-theme-bold.json"
+        "path": "./themes/Vulgocode-Color-Theme-bold.json"
       }
     ],
     "markdown.markdownItPlugins": true,

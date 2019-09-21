@@ -10,7 +10,7 @@
     "malibu": "#61afef",
     "green": "#98c379",
     "blue": "#2196f3",
-    "invalid": "#f8f8f8",
+    "invalid": "#e8e8e8",
     "lightWhite": "#abb2bf"
   },
   "bold": {
@@ -24,7 +24,7 @@
     "malibu": "#61AFEF",
     "green": "#98c379",
     "blue": "#2196f3",
-    "invalid": "#F8F8F8",
+    "invalid": "#e8e8e8",
     "lightWhite": "#abb2bf"
   }
 }

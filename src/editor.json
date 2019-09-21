@@ -5,76 +5,76 @@
   "maintainers": ["alexandreramos <alexandre@vulgocode.com>"],
   "semanticClass": "theme.vulgocode",
   "colors": {
-    "editor.background": "#212121",
-    "editor.foreground": "#e0e0e0",
+    "editor.background": "#282828",
+    "editor.foreground": "#b3b3b3",
     "editor.findMatchBackground": "#444444",
-    "editor.lineHighlightBackground": "#12121277",
+    "editor.lineHighlightBackground": "#06040177",
     "editor.rangeHighlightBackground": "#444444",
 
     "editorGroup.border": "#663399",
-    "editorGroup.dropBackground": "#121212",
+    "editorGroup.dropBackground": "#060401",
     "editorUnnecessaryCode.opacity": "#00000066",
 
-    "activityBar.background": "#212121",
+    "activityBar.background": "#282828",
     "activityBar.foreground": "#838383",
-    "activityBar.dropBackground": "#121212",
-    "activityBar.border": "#121212",
+    "activityBar.dropBackground": "#060401",
+    "activityBar.border": "#060401",
 
     "activityBarBadge.background": "#663399",
     "activityBarBadge.foreground": "#c8c8c8",
 
-    "sideBar.background": "#121212",
+    "sideBar.background": "#060401",
     "sideBar.foreground": "#b3b3b3",
-    "sideBar.border": "#121212",
+    "sideBar.border": "#060401",
 
     "sideBarTitle.foreground": "#c8c8c8",
 
     "sideBarSectionHeader.foreground": "#c8c8c8",
-    "sideBarSectionHeader.background": "#212121",
-    "sideBarSectionHeader.border": "#121212",
+    "sideBarSectionHeader.background": "#282828",
+    "sideBarSectionHeader.border": "#060401",
 
     "list.dropBackground": "#333333",
-    "list.hoverBackground": "#212121",
+    "list.hoverBackground": "#282828",
     "list.hoverForeground": "#c8c8c8",
     "list.focusBackground": "#333333",
     "list.focusForeground": "#c8c8c8",
     "list.activeSelectionBackground": "#333333",
     "list.activeSelectionForeground": "#c8c8c8",
     "list.inactiveSelectionBackground": "#333333",
-    "list.inactiveFocusBackground": "#212121",
+    "list.inactiveFocusBackground": "#282828",
     "list.inactiveSelectionForeground": "#c8c8c8",
     "list.highlightForeground": "#c8c8c8",
 
-    "statusBar.background": "#121212",
+    "statusBar.background": "#060401",
     "statusBar.foreground": "#b3b3b3",
-    "statusBar.border": "#212121",
-    "statusBar.noFolderBackground": "#121212",
-    "statusBar.noFolderBorder": "#212121",
+    "statusBar.border": "#282828",
+    "statusBar.noFolderBackground": "#060401",
+    "statusBar.noFolderBorder": "#282828",
     "statusBar.noFolderForeground": "#b3b3b3",
-    "statusBar.debuggingBackground": "#212121",
+    "statusBar.debuggingBackground": "#282828",
     "statusBar.debuggingForeground": "#c8c8c8",
 
-    "statusBarItem.activeBackground": "#212121",
-    "statusBarItem.hoverBackground": "#212121",
+    "statusBarItem.activeBackground": "#282828",
+    "statusBarItem.hoverBackground": "#282828",
 
-    "terminal.background": "#212121",
-    "terminal.border": "#212121",
+    "terminal.background": "#282828",
+    "terminal.border": "#282828",
 
-    "dropdown.listBackground": "#212121",
+    "dropdown.listBackground": "#282828",
     "dropdown.border": "#663399",
 
     "input.border": "#333333",
 
     "inputOption.activeBorder": "#333333",
 
-    "notificationCenter.border": "#121212",
+    "notificationCenter.border": "#060401",
 
     "notificationCenterHeader.foreground": "#b3b3b3",
-    "notificationCenterHeader.background": "#212121",
+    "notificationCenterHeader.background": "#282828",
 
-    "tab.activeBackground": "#212121",
+    "tab.activeBackground": "#282828",
 
-    "breadcrumb.background": "#121212",
+    "breadcrumb.background": "#060401",
 
     "peekViewEditor.matchHighlightBackground": "#6633995a",
     "peekViewResult.matchHighlightBackground": "#6633995a",
@@ -85,12 +85,12 @@
     "badge.background": "#663399",
 
     "panel.border": "#777",
-    "panel.background": "#212121",
-    "panel.dropBackground": "#212121",
+    "panel.background": "#282828",
+    "panel.dropBackground": "#282828",
 
     "panelTitle.activeBorder": "#663399",
 
-    "debugToolBar.background": "#212121",
+    "debugToolBar.background": "#282828",
 
     "progressBar.background": "#663399",
 

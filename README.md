@@ -9,8 +9,7 @@
 Launch VS Code Quick Open `(Ctrl+P)`, paste the following command, and press enter.
 
 ```
-ext install Vulgocode Color
-
+ext install Vulgocode
 ```
 
 or Open `Crtl + Shift + X` and search for Vulgocode Color Theme

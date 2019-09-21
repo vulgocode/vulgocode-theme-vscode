@@ -8,7 +8,7 @@
     "vscode": "^1.21.0"
   },
   "maintainers": [
-    "Alexandre Ramos <alexandresantos84@gmail.com>"
+    "Alexandre Ramos <alexandre@vulgocode.com>"
   ],
   "categories": [
     "Themes",
@@ -32,10 +32,10 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexandreramosdev/vulgocode-theme-vscode"
+    "url": "https://github.com/vulgocode/vulgocode-theme-vscode"
   },
   "bugs": {
-    "url": "https://github.com/alexandreramosdev/vulgocode-theme-vscode/issues"
+    "url": "https://github.com/vulgocode/vulgocode-theme-vscode/issues"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
   "contributes": {

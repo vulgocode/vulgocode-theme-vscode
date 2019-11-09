@@ -67,7 +67,7 @@
   },
   "scripts": {
     "build": "node build.js",
-    "watch": "chokidar src/* -c 'npm run build'"
+    "dev": "chokidar src/* -c 'npm run build'"
   },
   "devDependencies": {
     "chokidar-cli": "^2.0.0",

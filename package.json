@@ -2,7 +2,7 @@
   "name": "vulgocode-color-theme",
   "displayName": "Vulgocode Theme",
   "description": "Beautiful Dark Theme for VSCode.",
-  "version": "0.6.11",
+  "version": "0.6.12",
   "publisher": "alexandreramos",
   "engines": {
     "vscode": "^1.21.0"
